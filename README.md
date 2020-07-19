@@ -1,2 +1,1 @@
-# Special Thanks
-PilotNorman
+Special Thanks: PilotNorman
